@@ -6,6 +6,7 @@ namespace be_grp_QuikTrippin
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("QuickTrippin");
             var userEntry = 0;
             // print menu
             // validate menu
